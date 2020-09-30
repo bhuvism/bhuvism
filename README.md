@@ -5,6 +5,12 @@
 ### Hello, geeks 👋
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvism&theme=radical" /> 
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=bhuvism&theme=radical" /> 
+
+
 ### 📺 My works
 
 <br />
@@ -35,7 +41,6 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvism&theme=radical" /> 
 
 
 
