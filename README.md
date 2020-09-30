@@ -46,7 +46,11 @@
 
 <br />
 
+[website]: https://bhuvan.me
+[twitter]: https://twitter.com/BhuvanSM1
 
+[instagram]: https://www.instagram.com/bhuviism/
+[linkedin]: https://www.linkedin.com/in/bhuvan-s-m-55382b196/
 
 <!--
 **bhuvism/bhuvism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
