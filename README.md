@@ -35,6 +35,8 @@
 
 <br />
 
+<img align="center-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvism&theme=radical" /> \
+
 
 ### Connect with me:
 
