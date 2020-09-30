@@ -11,7 +11,7 @@
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img width="2406" alt="Web Image" src="portfolio.PNG">  [Personal Portfolio](https://bhuvan.me)
+|<img width="2406" alt="Web Image" src="portfolio.PNG">  [Personal Portfolio](https://bhuvan.me) |  <img width="2406" alt="Web Image" src="https://bhuvan.me/assets/images/covid.png"> [Stats on covid-19 cases](https://sarscov19.ml) |
 
 <!--
 **bhuvism/bhuvism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
