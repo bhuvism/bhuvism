@@ -17,7 +17,7 @@
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img height="100" width="2406" alt="Web Image" src="portfolio.PNG">  [Personal Portfolio](https://bhuvan.me) |  <img width="2406" alt="Web Image" src="https://bhuvan.me/assets/images/covid.jpg"> [Stats on covid-19 cases](https://sarscov19.ml) |
+|<img  width="2406" alt="Web Image" src="portfolio.PNG">  [Personal Portfolio](https://bhuvan.me) |  <img width="2406" alt="Web Image" src="https://bhuvan.me/assets/images/covid.jpg"> [Stats on covid-19 cases](https://sarscov19.ml) |
 |||
 |||
 |||
