@@ -10,6 +10,13 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=bhuvism&theme=radical" /> 
 
+<br />
+
+## 📕 Experience
+### Web Developer Intern 
+##### CodeGeeko Academy Pvt Ltd based in Bengaluru, Karnataka
+###### October 2020 - December 2020
+
 
 ### 📺 My works
 
