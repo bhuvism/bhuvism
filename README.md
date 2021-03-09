@@ -16,7 +16,7 @@
 ### Web Developer Intern 
 ##### CodeGeeko Academy Pvt Ltd based in Bengaluru, Karnataka
 ###### October 2020 - December 2020
-
+<br />
 
 ### 📺 My works
 
