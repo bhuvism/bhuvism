@@ -29,7 +29,7 @@
 |||
 |||
 |||
-|<img width="2406" alt="Web Image" src="https://bhuvan.me/assets/images/peer-connect.jpg">  [Real-time Chat Application](https://peer-connect.ml) |  <img width="2406" alt="Web Image" src="btemp.PNG"> [Temporary Cloud Storage and Service powered by tempCloud](https://btemp.ml) |
+|<img width="2406" alt="Web Image" src="https://bhuvan.me/assets/images/peer-connect.jpg">  [Real-time Chat Application](https://github.com/bhuvism/chatapp) |  <img width="2406" alt="Web Image" src="btemp.PNG"> [Temporary Cloud Storage and Service powered by tempCloud](https://btemp.ml) |
 
 
 ### Languages and Tools:
